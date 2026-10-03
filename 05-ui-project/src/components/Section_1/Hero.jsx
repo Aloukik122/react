@@ -4,7 +4,7 @@ import{ArrowRight} from 'lucide-react'
 
 function Hero() {
 	return (
-		<div style={{backgroundImage :`url(${bgHero})`}} className='font-[roboto] tracking-wide brightness-125 bg-cover bg-center h-140 w-full text-white text-center'>
+		<div style={{backgroundImage :`url(${bgHero})`}} className='font-[roboto] tracking-wide brightness-125 bg-contain bg-no-repeat bg-center h-140 w-full text-white text-center'>
 
 			<p className='pt-15 text-xl text-orange-700 uppercase font-[roboto] tracking-wider'>welcome to Thinkpro Classes</p>
 			<h1 className='text-7xl mt-5 tracking-wider '>Upgrade Your Skills, </h1>
