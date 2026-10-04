@@ -18,7 +18,7 @@ function ShowCase() {
 					    <div className='text-xl font-bold border-b'>Jack Sparrow</div>
 					    <button className='py-2 px-5 text-sm bg-orange-700 text-white'>View More</button>
 					</div>
-					<p className='text-left'>Lorem ipsum dolor, sit, amet consectetur adipisicing elit. Nobis eum dicta odio labore natus porro sapiente quidem ad blanditiis. Atque. Lorem ipsum dolor sit amet consectetur adipisicing, elit. Culpa, facere?
+					<p className='text-left'>Joining ThinkPro Classes for Web Development was the best decision for my career journey. The hands-on training and guidance from experienced mentors helped me master full-stack development, including frontend design and backend database management. Working on real-world projects gave me the technical skills and practical confidence needed to stand out. Thanks to this comprehensive coaching, I successfully completed the program and secured a fantastic job as a professional web developer.
 					</p>
 					<div className='text-left'>
 						<p>Avneesh Kumar Singh</p>
@@ -26,10 +26,10 @@ function ShowCase() {
 					</div>
 					<div className='flex justify-between '>
 						<div className='flex gap-1'>
-							<img className='w-5 h-5' src="" alt=""/>
-							<img className='w-5 h-5' src="" alt=""/>
-							<img className='w-5 h-5' src="" alt=""/>
-							<img className='w-5 h-5' src="" alt=""/>
+							<div className='w-8 h-8 rounded-full border bg-[url(https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-top'></div>
+							<div className='w-8 h-8 rounded-full border bg-[url(https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-top'></div>
+							<div className='w-8 h-8 rounded-full border bg-[url(https://images.unsplash.com/photo-1601288496920-b6154fe3626a?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-top'></div>
+							<div className='w-8 h-8 rounded-full border bg-[url(https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=388&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-top'></div>
 						</div>
 						<div className='flex justify-between gap-4'>
 							<MoveLeft strokeWidth={3}/>
