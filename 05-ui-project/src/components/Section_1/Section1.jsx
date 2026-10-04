@@ -5,6 +5,7 @@ import About from './About'
 import Footer from './Footer'
 import Blog from './Blog'
 import ShowCase from './ShowCase'
+import Courses from './Courses'
 
 function Section1(props) {
 	
@@ -13,6 +14,7 @@ function Section1(props) {
 			<Nevbar/>
 			<Hero/>
 			<About/>
+			<Courses/>
 			<ShowCase/>
 			<div>
 				<Blog users={props.users}/>
